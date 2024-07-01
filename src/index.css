@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Yekan";
+    src: local("Yekan"),
+    url("./assets/fonts/Yekan.ttf") format("truetype")
+}
